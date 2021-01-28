@@ -1,0 +1,4 @@
+# im not sure if im doing this on thee right page
+age=input("what is your age? ")
+print("you are " + age)
+
